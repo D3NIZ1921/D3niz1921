@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dogan Deniz</h1>
-<h3 align="center">A passionate Jr. full-stack developer from Turkey</h3>
+<h3 align="center">A passionate Cyber Security Specialist from Turkey</h3>
 <p align="center"><h4>I am a university student and I am in my third year. I love learning and adding something to myself.</h4></p>
 
 - 🔭 I’m currently working on **React and Nodejs**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Cyber Security**
 
 - 📫 How to reach me **wris8789@outlook.com**
 
