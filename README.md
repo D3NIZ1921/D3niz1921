@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dogan Deniz</h1>
-<h3 align="center">A passionate Cyber Security Specialist Candidate from Turkey</h3>
-<p align="center"><h4>I am a university student and I am in my third year. I love learning and adding something to myself.</h4></p>
+<h1 align="center">Hi 👋, I'm Albora Dogan Deniz</h1>
+<h3 align="center">A passionate Jr. Pentester from Turkey</h3>
+<p align="center"><h4>I am a university student and I am in my fourth year. I love learning and adding something to myself.</h4></p>
 
 - 🌱 I’m currently learning **Network**
 
