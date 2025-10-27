@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Jr. Pentester from Turkey</h3>
 <p align="center"><h4>I am a university student and I am in my fourth year. I love learning and adding something to myself.</h4></p>
 
-- 🌱 I’m currently learning **Network**
+- 🌱 I’m currently learning **Mobile App Pentesting**
 
 - 📫 How to reach me **wris8789@outlook.com**
 
